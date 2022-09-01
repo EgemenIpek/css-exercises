@@ -1,0 +1,18 @@
+#second{
+    color: blue;
+    font-size: 16px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.first{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+.first.cooler{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-size: 24px;
+}
